@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Nike Mercurial Vapor 16 Pro",
+    "brand": "Nike",
+    "price": 3800,
+    "description": "Patlayıcı hız için tasarlanmış hafif krampon. Flyknit teknolojisiyle üretilmiştir.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/FQ8685-700_1.jpg",
+    "sizes": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "stock": 15
+  },
+  {
+    "name": "Adidas X Crazyfast.1 Ll Fg",
+    "brand": "Adidas",
+    "price": 3500,
+    "description": "Top kontrolü ve isabetli şutlar için tasarlanmış krampon. Üstün tutuş sağlar.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/GY7378_1.jpg",
+    "sizes": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 10
+  },
+  {
+    "name": "Puma Future Ultimate Fg/Ag",
+    "brand": "Puma",
+    "price": 3200,
+    "description": "Esneklik ve çeviklik için tasarlanmış, şık ve hafif krampon.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/10735501_1.jpg",
+    "sizes": [
+      40,
+      42,
+      44
+    ],
+    "stock": 20
+  },
+  {
+    "name": "Nike Phantom GX Elite",
+    "brand": "Nike",
+    "price": 4200,
+    "description": "Hassas kontrol ve üstün temas için özel olarak tasarlanmıştır. Sürdürülebilir malzemelerle üretilmiştir.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/DC9968-446_1.jpg",
+    "sizes": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "stock": 8
+  },
+  {
+    "name": "Adidas Predator Accuracy.1",
+    "brand": "Adidas",
+    "price": 3900,
+    "description": "Güçlü şutlar ve topa tam hakimiyet için Predator serisinin en yeni üyesi.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/GW4582_1.jpg",
+    "sizes": [
+      41,
+      42,
+      43
+    ],
+    "stock": 12
+  },
+  {
+    "name": "Puma Ultra Match Fg/Ag",
+    "brand": "Puma",
+    "price": 2800,
+    "description": "Hafif yapısıyla hızınızı artırırken, GripControl teknolojisiyle üstün top kontrolü sunar.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/10721701_1.jpg",
+    "sizes": [
+      40,
+      41,
+      42
+    ],
+    "stock": 25
+  },
+  {
+    "name": "Nike Tiempo Legend 10 Elite",
+    "brand": "Nike",
+    "price": 4000,
+    "description": "Doğal deri hissi veren sentetik üst yüzeyi ve mükemmel konforuyla klasik bir model.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/DV4328-100_1.jpg",
+    "sizes": [
+      43,
+      44,
+      45
+    ],
+    "stock": 7
+  },
+  {
+    "name": "Adidas Copa Pure.1 FG",
+    "brand": "Adidas",
+    "price": 3750,
+    "description": "Dokunuş ve konfor için tasarlanmış klasik bir krampon. Yumuşak üst yüzeyiyle topu ayağınızda hissetmenizi sağlar.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/HQ8904_1.jpg",
+    "sizes": [
+      42,
+      43,
+      44
+    ],
+    "stock": 14
+  },
+  {
+    "name": "Puma King Ultimate Fg/Ag",
+    "brand": "Puma",
+    "price": 3400,
+    "description": "Futbolun efsanevi modeli King'in modern yorumu. Klasik tasarım ve modern performansın birleşimi.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/10780903_1.jpg",
+    "sizes": [
+      41,
+      42,
+      43
+    ],
+    "stock": 9
+  },
+  {
+    "name": "Nike Zoom Superfly 9 Elite FG",
+    "brand": "Nike",
+    "price": 4500,
+    "description": "Yüksek hız için tasarlanmış, Zoom Air ünitesiyle desteklenen, şok emilimi yüksek bir krampon.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/DJ4977-780_1.jpg",
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 6
+  },
+  {
+    "name": "Adidas Predator Edge.1",
+    "brand": "Adidas",
+    "price": 4100,
+    "description": "Demonscale teknolojisiyle top kontrolünü en üst seviyeye çıkaran agresif bir tasarım.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/GW1024_1.jpg",
+    "sizes": [
+      42,
+      43,
+      44
+    ],
+    "stock": 11
+  },
+  {
+    "name": "Puma Future Z 2.1 Fg/Ag",
+    "brand": "Puma",
+    "price": 3600,
+    "description": "Zorlu hareketler ve ani yön değişiklikleri için tasarlanmış yenilikçi Fuzionfit+ teknolojisine sahip krampon.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/10605801_1.jpg",
+    "sizes": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 13
+  },
+  {
+    "name": "Nike Phantom GT2 Pro FG",
+    "brand": "Nike",
+    "price": 3950,
+    "description": "Hassas vuruşlar ve topa tam hakimiyet için özel olarak geliştirilmiş dokulu üst yüzey.",
+    "imageUrl": "https://korayspor.sm.mncdn.com/mnresize/1920/-/korayspor/products/CZ9890-343_1.jpg",
+    "sizes": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "stock": 10
+  }
+]
